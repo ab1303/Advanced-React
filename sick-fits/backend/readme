@@ -1,0 +1,8 @@
+# Prisma Account with secret and password
+
+```
+    npm run dev
+```
+
+# Playground on
+http://localhost:4444/

@@ -1,12 +1,11 @@
-import Link from 'next/link';
+import CreateItem from "../components/CreateItem";
 
-const Home = () => {
-    return (
-        <div>
-            sell!!
-            <br/>
-        </div>
-    );
+const Sell = () => {
+  return (
+    <div>
+      <CreateItem></CreateItem>
+    </div>
+  );
 };
 
-export default Home;
+export default Sell;

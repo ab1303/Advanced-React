@@ -1,12 +1,10 @@
-import Link from 'next/link';
+import Items from "../components/Items";
 const Home = () => {
-    return (
-        <div>
-            Hey home!!
-            <br/>
-           
-        </div>
-    );
+  return (
+    <div>
+      <Items />
+    </div>
+  );
 };
 
 export default Home;
