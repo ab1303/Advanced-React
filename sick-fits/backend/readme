@@ -6,3 +6,18 @@
 
 # Playground on
 http://localhost:4444/
+
+## Prisma Commands
+```
+    prisma Login
+
+    prisma console
+
+    prisma deploy
+```
+
+##  Image Nike
+https://res.cloudinary.com/wesbostutorial/image/upload/v1592316720/sickfits/itodkvbx2grymu1hqmhv.jpg
+
+## Large Image Nike
+https://res.cloudinary.com/wesbostutorial/image/upload/c_scale,q_auto,w_1000/v1592316720/sickfits/itodkvbx2grymu1hqmhv.jpg
